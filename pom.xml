@@ -4,7 +4,7 @@
   <groupId>nullfish</groupId>
   <artifactId>filefish</artifactId>
   <packaging>jar</packaging>
-  <version>20100301</version>
+  <version>20170307</version>
   <name>filefish</name>
   <url>http://maven.apache.org</url>
   
